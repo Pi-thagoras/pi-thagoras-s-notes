@@ -2,6 +2,8 @@
 title: "π-thagoras's Notes"
 ---
 
+# π-thagoras's Notes
+
 Hello there!
 
 Hmmm...
