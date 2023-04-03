@@ -1,6 +1,5 @@
 ---
-title: π-thagoras's Notes
-enableToc: false
+title: "π-thagoras's Notes"
 ---
 
 Hello there!
